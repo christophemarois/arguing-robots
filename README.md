@@ -28,7 +28,7 @@ Alex: How Montreal in the winter inspires people to do art.
 * Pass the txt as an argument to the CLI (you can also open a terminal, drag the CLI on it, then drag the txt, then press enter):
 
 ```
-./arguing-robots montreal-in-the-winter.txt
+./arguing-robots examples/montreal-in-the-winter.txt
 ```
 
 * Hear and watch robots argue
